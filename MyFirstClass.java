@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+//Naming Convention UpperCamelCase
 public class MyFirstClass {
     //psvm
     public static void main(String[] args) {
